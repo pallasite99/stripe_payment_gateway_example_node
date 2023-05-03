@@ -5,6 +5,8 @@
 
 https://www.geeksforgeeks.org/how-to-integrate-stripe-payment-gateway-in-node-js/
 
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/26508636/235915586-5b23aa7d-ca9b-4264-8939-abab99f71277.png">
+
 - This is the expected response. Your request will be submitted successfully but will not complete.
 
 ```json
